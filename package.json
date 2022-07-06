@@ -1,0 +1,24 @@
+{
+  "name": "typescript-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixnego/typescript-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixnego/typescript-example/issues"
+  },
+  "homepage": "https://github.com/felixnego/typescript-example#readme",
+  "dependencies": {
+    "@types/faker": "^5.5.9",
+    "@types/google.maps": "^3.49.2",
+    "faker": "^5.5.3"
+  }
+}
